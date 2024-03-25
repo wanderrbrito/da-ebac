@@ -2,5 +2,4 @@ print('Ola Ebac')
 print('Versao 001')
 print('Modulo 18')
 print('Ha algo errado no paraiso...')
-
-')
+print('teste aula 18.3 25/03 20:35')
