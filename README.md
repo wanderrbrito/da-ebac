@@ -6,3 +6,4 @@ Com arquivos em Python usando:
 *   Pandas
 *   Matplotlib
 *   Seaborn
+*   Google Locker Studio
